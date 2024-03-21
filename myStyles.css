@@ -1,0 +1,119 @@
+body {
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #999;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
+
+nav {
+  text-align: center;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+main {
+  max-width: 800px;
+  margin: 20px auto;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+}
+
+h1 {
+  padding: 10px 20px;
+  color: brown;
+}
+
+h3 {
+  width: 25%;
+  margin: 0 auto;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 10px auto;
+  border: 1px solid blue;
+}
+
+.caption {
+  font-style: italic;
+  text-align: center;
+  margin: 0 auto;
+}
+
+aside {
+  margin-left: 20px;
+}
+
+footer {
+  background-color: #999;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
+
+#biography {
+  text-align: center;
+  line-height: 1.5;
+  border: 1px solid #333;
+}
+
+#filmography {
+  margin-left: 450px;
+  line-height: 1.5;
+}
+
+#quotes {
+  line-height: 1.5;
+}
+
+#para1 {
+  color: navy;
+}
+
+.timeline {
+  font-size: 25px;
+  line-height: 20px;
+  color: plum;
+  font-family: monospace;
+  padding: 4px;
+  margin-left: 6px;
+}
+
+.footer {
+  border-top: 5px dashed springgreen;
+  border-bottom: 5px dotted springgreen;
+  border-left: 5px solid springgreen;
+  border-right: 5px solid springgreen;
+}
+
+.list {
+  color: cadetblue;
+}
+
+.caption {
+  font-style: oblique;
+  font-size: 20px;
+  text-align: center;
+  color: #999;
+  border: 1px solid orange;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
